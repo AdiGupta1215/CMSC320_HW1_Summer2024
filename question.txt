@@ -1,0 +1,3 @@
+Why are you interested in taking CMSC320?
+
+I am a CS major with the ML specialization and I am looking to pursue a career in computational biology research. Taking this class will help me develop some of the fundamental skills I will need in this field.
